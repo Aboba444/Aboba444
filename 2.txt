@@ -1,0 +1,3 @@
+Теперь отправьте изменения уже из своей ветки 
+GitHub с помощью команды git push origin main.
+Получить данные с GitHub git pull origin main
